@@ -1,8 +1,0 @@
-# Node modules
-node_modules/
-
-# Runtime data
-data/
-
-# Env secrets
-.env
